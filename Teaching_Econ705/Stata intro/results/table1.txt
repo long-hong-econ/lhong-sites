@@ -1,0 +1,14 @@
+	(1)	(2)
+VARIABLES	price	price
+		
+mpg	-66.22**	-55.96
+	(25.70)	(57.19)
+weight		0.106
+		(0.490)
+Constant	6,634***	6,103**
+	(615.8)	(2,620)
+		
+Observations	64	64
+R-squared	0.067	0.068
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

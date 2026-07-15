@@ -1,0 +1,41 @@
+Event Study Estimates for Merit Aid programs on College Attendence			
+		(1)	(2)
+VARIABLES	LABELS	OLS	OLS
+			
+treat_lagyr8	treat_lagyr8	0.0114	0.0114
+		(0.0220)	(0.0220)
+treat_lagyr7	treat_lagyr7	0.0327*	0.0327*
+		(0.0189)	(0.0189)
+treat_lagyr6	treat_lagyr6	0.00612	0.00612
+		(0.0251)	(0.0251)
+treat_lagyr5	treat_lagyr5	0.00705	0.00705
+		(0.0182)	(0.0182)
+treat_lagyr4	treat_lagyr4	0.0241	0.0241
+		(0.0204)	(0.0204)
+treat_lagyr3	treat_lagyr3	-0.0327	-0.0327
+		(0.0202)	(0.0202)
+treat_lagyr2	treat_lagyr2	-0.00258	-0.00258
+		(0.0223)	(0.0223)
+treat_startyr	treat_startyr	0.0357	0.0357
+		(0.0217)	(0.0217)
+treat_leadyr1	treat_leadyr1	0.00508	0.00508
+		(0.0302)	(0.0302)
+treat_leadyr2	treat_leadyr2	0.0183	0.0183
+		(0.0228)	(0.0228)
+treat_leadyr3	treat_leadyr3	0.0457**	0.0457**
+		(0.0221)	(0.0221)
+treat_leadyr4	treat_leadyr4	0.0889***	0.0889***
+		(0.0297)	(0.0297)
+treat_leadyr5	treat_leadyr5	0.0974***	0.0974***
+		(0.0210)	(0.0210)
+treat_leadyr6	treat_leadyr6	0.0485*	0.0485*
+		(0.0269)	(0.0269)
+treat_leadyr7	treat_leadyr7	0.00874	0.00874
+		(0.0489)	(0.0489)
+treat_leadyr8	treat_leadyr8	-0.0447	-0.0447
+		(0.0470)	(0.0470)
+			
+Observations		42,161	42,161
+R-squared		0.459	0.459
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

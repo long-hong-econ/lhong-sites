@@ -1,0 +1,50 @@
+{\rtf1\fs24
+\pard\qc
+Event Study Estimates for Merit Aid programs on College Attendence\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2016\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx4896
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3456\cellx4896
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896
+\ql VARIABLES\cell\qc OLS\cell\qc OLS\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3456\cellx4896
+\ql \cell\qc \cell\qc \cell\row
+\ql treat_lagyr8\cell\qc 0.0114\cell\qc 0.0114\cell\row
+\ql \cell\qc (0.0220)\cell\qc (0.0220)\cell\row
+\ql treat_lagyr7\cell\qc 0.0327*\cell\qc 0.0327*\cell\row
+\ql \cell\qc (0.0189)\cell\qc (0.0189)\cell\row
+\ql treat_lagyr6\cell\qc 0.00612\cell\qc 0.00612\cell\row
+\ql \cell\qc (0.0251)\cell\qc (0.0251)\cell\row
+\ql treat_lagyr5\cell\qc 0.00705\cell\qc 0.00705\cell\row
+\ql \cell\qc (0.0182)\cell\qc (0.0182)\cell\row
+\ql treat_lagyr4\cell\qc 0.0241\cell\qc 0.0241\cell\row
+\ql \cell\qc (0.0204)\cell\qc (0.0204)\cell\row
+\ql treat_lagyr3\cell\qc -0.0327\cell\qc -0.0327\cell\row
+\ql \cell\qc (0.0202)\cell\qc (0.0202)\cell\row
+\ql treat_lagyr2\cell\qc -0.00258\cell\qc -0.00258\cell\row
+\ql \cell\qc (0.0223)\cell\qc (0.0223)\cell\row
+\ql treat_startyr\cell\qc 0.0357\cell\qc 0.0357\cell\row
+\ql \cell\qc (0.0217)\cell\qc (0.0217)\cell\row
+\ql treat_leadyr1\cell\qc 0.00508\cell\qc 0.00508\cell\row
+\ql \cell\qc (0.0302)\cell\qc (0.0302)\cell\row
+\ql treat_leadyr2\cell\qc 0.0183\cell\qc 0.0183\cell\row
+\ql \cell\qc (0.0228)\cell\qc (0.0228)\cell\row
+\ql treat_leadyr3\cell\qc 0.0457**\cell\qc 0.0457**\cell\row
+\ql \cell\qc (0.0221)\cell\qc (0.0221)\cell\row
+\ql treat_leadyr4\cell\qc 0.0889***\cell\qc 0.0889***\cell\row
+\ql \cell\qc (0.0297)\cell\qc (0.0297)\cell\row
+\ql treat_leadyr5\cell\qc 0.0974***\cell\qc 0.0974***\cell\row
+\ql \cell\qc (0.0210)\cell\qc (0.0210)\cell\row
+\ql treat_leadyr6\cell\qc 0.0485*\cell\qc 0.0485*\cell\row
+\ql \cell\qc (0.0269)\cell\qc (0.0269)\cell\row
+\ql treat_leadyr7\cell\qc 0.00874\cell\qc 0.00874\cell\row
+\ql \cell\qc (0.0489)\cell\qc (0.0489)\cell\row
+\ql treat_leadyr8\cell\qc -0.0447\cell\qc -0.0447\cell\row
+\ql \cell\qc (0.0470)\cell\qc (0.0470)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 42,161\cell\qc 42,161\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896
+\ql R-squared\cell\qc 0.459\cell\qc 0.459\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
